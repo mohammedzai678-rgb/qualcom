@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cyber_black">#FF0A0A0F</color>
+    <color name="surface_dark">#FF121218</color>
+    <color name="surface_card">#FF1A1A24</color>
+    <color name="deep_purple">#FF7C3AED</color>
+    <color name="neon_cyan">#FF00D4FF</color>
+    <color name="neon_green">#FF00FF88</color>
+    <color name="danger_red">#FFFF3366</color>
+    <color name="warning_orange">#FFFF6B35</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_tertiary">#66FFFFFF</color>
+    <color name="glass_white">#08FFFFFF</color>
+    <color name="glass_border">#14FFFFFF</color>
+</resources>

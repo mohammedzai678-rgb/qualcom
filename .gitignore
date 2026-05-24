@@ -1,0 +1,16 @@
+.gradle/
+.gradle-user-home/
+.idea/
+.venv-models/
+build/
+app/build/
+local.properties
+python/output.txt
+qtld-classes.jar
+tmp_model_downloads/
+tmp_repo_refs/
+*.iml
+*.apk
+*.aab
+*.dex
+*.exe

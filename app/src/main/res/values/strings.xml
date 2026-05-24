@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeepShield AI</string>
+    <string name="app_tagline">Detect. Expose. Protect.</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_live_camera">Live Shield</string>
+    <string name="nav_gallery">Scanner</string>
+    <string name="nav_audio">Audio</string>
+    <string name="nav_heatmap">Heatmap</string>
+    <string name="nav_watermark">Watermark</string>
+    <string name="nav_privacy">Privacy</string>
+    <string name="nav_performance">Performance</string>
+    <string name="nav_forensics">Forensics</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="total_scans">Total Scans</string>
+    <string name="threats_detected">Threats Detected</string>
+    <string name="media_authenticated">Media Authenticated</string>
+    <string name="media_trust_score">Media Trust Score</string>
+    <string name="recent_scans">Recent Scans</string>
+    <string name="quick_actions">Quick Actions</string>
+
+    <!-- Scanner -->
+    <string name="scan_image">Scan Image</string>
+    <string name="scan_video">Scan Video</string>
+    <string name="scan_audio">Scan Audio</string>
+    <string name="upload_media">Upload Media</string>
+    <string name="drag_drop_hint">Tap to select or drag and drop media files</string>
+    <string name="analyzing">Analyzing…</string>
+    <string name="scan_complete">Scan Complete</string>
+
+    <!-- Verdicts -->
+    <string name="verdict_authentic">AUTHENTIC</string>
+    <string name="verdict_suspicious">SUSPICIOUS</string>
+    <string name="verdict_deepfake">DEEPFAKE DETECTED</string>
+
+    <!-- Watermark -->
+    <string name="embed_watermark">Embed Watermark</string>
+    <string name="verify_watermark">Verify Watermark</string>
+    <string name="chain_of_custody">Chain of Custody</string>
+    <string name="watermark_invisible">Invisible (Recommended)</string>
+    <string name="watermark_robust">Robust</string>
+    <string name="watermark_fragile">Fragile (Tamper-Evident)</string>
+
+    <!-- Privacy -->
+    <string name="exif_analysis">EXIF Analysis</string>
+    <string name="strip_metadata">Strip Metadata</string>
+    <string name="risk_high">HIGH RISK</string>
+    <string name="risk_medium">MEDIUM RISK</string>
+    <string name="risk_low">LOW RISK</string>
+
+    <!-- Performance -->
+    <string name="npu_status">NPU Status</string>
+    <string name="fps_label">FPS</string>
+    <string name="latency_label">Latency</string>
+    <string name="npu_utilization">NPU Utilization</string>
+    <string name="thermal_label">Thermal</string>
+    <string name="battery_saver">Battery Saver</string>
+    <string name="int4_mode">INT4 Mode (Experimental)</string>
+
+    <!-- Forensics -->
+    <string name="export_pdf">Export PDF Report</string>
+    <string name="export_json">Export JSON Log</string>
+    <string name="ai_attribution">AI Attribution</string>
+    <string name="forensic_report">Forensic Report</string>
+
+    <!-- Camera -->
+    <string name="camera_permission_required">Camera permission is required for live detection</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="live_detection_active">Live Detection Active</string>
+
+    <!-- General -->
+    <string name="offline_mode">Offline Mode</string>
+    <string name="privacy_first">Privacy First — All processing on-device</string>
+    <string name="powered_by_snapdragon">Powered by Snapdragon NPU</string>
+</resources>

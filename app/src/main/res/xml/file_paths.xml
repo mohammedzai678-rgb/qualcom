@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="reports" path="reports/" />
+    <cache-path name="exports" path="exports/" />
+    <cache-path name="watermarked" path="watermarked/" />
+    <cache-path name="camera" path="camera/" />
+    <files-path name="heatmaps" path="heatmaps/" />
+</paths>
